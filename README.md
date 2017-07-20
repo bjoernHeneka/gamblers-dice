@@ -7,7 +7,7 @@ will be more frequent in the future.
 -[Wikipedia](https://simple.wikipedia.org/wiki/Gambler%27s_fallacy)
 
 Well no longer is this a fallacy my friends, these dice are real! If you roll a
-20 sided die, and you haven't seen a 20 in a while it is **statistically more
+20 sided dice, and you haven't seen a 20 in a while it is **statistically more
 likely** to show up in the next roll with these dice. And the best part, it's
 still *uniformly random* for large sample sets!
 
